@@ -2,4 +2,4 @@
 
 ___
 
-## Current @: `Day 005`
+## Current @: `Day 006`
